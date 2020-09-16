@@ -1,0 +1,43 @@
+.color-info {
+    width: 20px;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+}
+.color1 {
+    background-color: rgb(231,76,60,0.4);
+}
+.color2 {
+    background-color: rgb(155,89,182,0.4);
+}
+.color3 {
+    background-color: rgb(84,153,199,0.4);
+}
+.color4 {
+    background-color: rgb(26,188,156,0.4);
+}
+.color5 {
+    background-color: rgba(10, 88, 43, 0.4);
+}
+.color6 {
+    background-color: rgb(241,196,15,0.4);
+}
+.color7 {
+    background-color: rgb(243,156,18,0.4);
+}
+.color8 {
+    background-color: rgb(211,84,0,0.4);
+}
+.table tbody tr td {
+    position: relative;
+}
+.table tbody tr td:first-child {
+    text-align: left;
+}
+.table tbody tr td, .table thead tr td {
+    text-align: center;
+}
+.table tbody tr td .text {
+    margin-left: 20px;
+}
